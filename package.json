@@ -1,0 +1,23 @@
+{
+  "name": "mongodb-latency",
+  "version": "1.0.0",
+  "description": "A simple and efficient package to check the latency of a MongoDB database connection in Node.js applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devanshyadav2010/mongodb-latency"
+  },
+  "keywords": ["mongodb", "latency", "database", "connection", "Node.js", "discord.js"],
+  "author": "Devansh Yadav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devanshyadav2010/mongodb-latency/issues"
+  },
+  "homepage": "https://github.com/devanshyadav2010/mongodb-latency#readme",
+  "dependencies": {
+    "mongodb": "^4.17.2"
+  }
+}
